@@ -9,19 +9,19 @@ Pytorch implementation of various Deep NLP models in cs-224n(Stanford Univ)
 04. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/04.Window-Classifier-for-NER.ipynb">Window-Classifier-for-NER</a>
 05. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/05.Neural-Dependancy-Parser.ipynb">Neural-Dependancy-Parser</a>
 06. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/06.RNN-Language-Model.ipynb">RNN-Language-Model</a>
-07. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/07.Neural-Machine-Translation-with-Attention">Neural-Machine-Translation-with-Attention</a>
-08. Neural-Machine-Translation-Large-Vocab
-09. CTC-for-Speech-Recognition
-10. CNN-for-Text-Classification
-11. Tree-LSTM
-12. Deep-RL-for-Coreference-Resolution
-13. Dynamic-Neural-Network-for-QA
+07. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/07.Neural-Machine-Translation-with-Attention.ipynb">Neural-Machine-Translation-with-Attention</a>
+08. CTC-for-Speech-Recognition
+09. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/09.CNN-for-Text-Classification.ipynb">CNN-for-Text-Classification</a>
+10. Tree-LSTM
+11. Deep-RL-for-Coreference-Resolution
+12. Dynamic-Neural-Network-for-QA
 
 
 ## Requirements
 
 - Pytorch 0.2
 - nltk 3.2.2
+- gensim 2.2.0
 - sklearn_crfsuite
 
 ## Getting started

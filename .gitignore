@@ -3,5 +3,6 @@ __pycache__
 .ipynb_checkpoints
 build/
 dataset/
+model/
 *.cpp
 *.so
