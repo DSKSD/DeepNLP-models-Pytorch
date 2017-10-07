@@ -14,7 +14,7 @@ Pytorch implementation of various Deep NLP models in cs-224n(Stanford Univ)
 09. <a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/09.CNN-for-Text-Classification.ipynb">CNN-for-Text-Classification</a>
 10. Tree-LSTM
 11. Deep-RL-for-Coreference-Resolution
-12. Dynamic-Neural-Network-for-QA
+12. Dynamic-Memory-Network-for-QA
 
 
 ## Requirements
