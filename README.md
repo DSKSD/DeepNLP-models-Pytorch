@@ -2,6 +2,8 @@
 
 Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 
+Markdown | Less
+test | test
 
 01. <strong>Skip-gram-Naive-Softmax</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/01.Skip-gram-Naive-Softmax.ipynb">notebook</a> / data / <a href="https://arxiv.org/abs/1301.3781">paper</a>]
 02. <strong>Skip-gram-Negative-Sampling</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/02.Skip-gram-Negative-Sampling.ipynb">notebook</a> / data / <a href="http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">paper</a>]
