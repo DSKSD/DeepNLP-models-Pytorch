@@ -2,25 +2,20 @@
 
 Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-01. <strong>Skip-gram-Naive-Softmax</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/01.Skip-gram-Naive-Softmax.ipynb">notebook</a> / data / <a href="https://arxiv.org/abs/1301.3781">paper</a>]
-02. <strong>Skip-gram-Negative-Sampling</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/02.Skip-gram-Negative-Sampling.ipynb">notebook</a> / data / <a href="http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">paper</a>]
-03. <strong>GloVe</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/03.GloVe.ipynb">notebook</a> / data / <a href="https://nlp.stanford.edu/pubs/glove.pdf">paper</a>]
-04. <strong>Window-Classifier-for-NER</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/04.Window-Classifier-for-NER.ipynb">notebook</a> / data / paper]
-05. <strong>Neural-Dependancy-Parser</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/05.Neural-Dependancy-Parser.ipynb">notebook</a> / <a href="https://github.com/rguthrie3/DeepDependencyParsingProblemSet/tree/master/data">data</a> / <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf">paper</a>]
-06. <strong>RNN-Language-Model</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/06.RNN-Language-Model.ipynb">notebook</a> / data / <a href="https://arxiv.org/pdf/1504.00941.pdf">paper</a>]
-07. <strong>Neural-Machine-Translation-with-Attention</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/07.Neural-Machine-Translation-with-Attention.ipynb">notebook</a> / <a href="http://www.manythings.org/anki/fra-eng.zip">data</a> / <a href="https://arxiv.org/pdf/1409.0473.pdf">paper</a>]
-08. <strong>CTC-for-Speech-Recognition</strong> [notebook / data / paper]
-09. <strong>CNN-for-Text-Classification</strong> [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/09.CNN-for-Text-Classification.ipynb">notebook</a> / <a href="http://cogcomp.org/Data/QA/QC/train_5500.label">data</a> / <a href="http://www.aclweb.org/anthology/D14-1181">paper</a>]
-10. <strong>Tree-LSTM-for-Sentiment-Classifier</strong> [notebook / data / <a href="http://www.aclweb.org/anthology/P15-1150">paper</a>]
-11. <strong>Deep-Reinforcement-Learning-for-Coreference-Resolution</strong> [notebook / data / <a href="http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf">paper</a>]
-12. <strong>Dynamic-Memory-Network-for-QA</strong> [notebook / <a href="http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>]
+| Model      | Reference link   |
+| ------------- |:-------------:| 
+| 01. <strong>Skip-gram-Naive-Softmax</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/01.Skip-gram-Naive-Softmax.ipynb">notebook</a> / data / <a href="https://arxiv.org/abs/1301.3781">paper</a>] |
+| 02. <strong>Skip-gram-Negative-Sampling</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/02.Skip-gram-Negative-Sampling.ipynb">notebook</a> / data / <a href="http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">paper</a>] |
+| 03. <strong>GloVe</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/03.GloVe.ipynb">notebook</a> / data / <a href="https://nlp.stanford.edu/pubs/glove.pdf">paper</a>] |
+| 04. <strong>Window-Classifier-for-NER</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/04.Window-Classifier-for-NER.ipynb">notebook</a> / data / paper] |
+| 05. <strong>Neural-Dependancy-Parser</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/05.Neural-Dependancy-Parser.ipynb">notebook</a> / <a href="https://github.com/rguthrie3/DeepDependencyParsingProblemSet/tree/master/data">data</a> / <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf">paper</a>] |
+| 06. <strong>RNN-Language-Model</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/06.RNN-Language-Model.ipynb">notebook</a> / data / <a href="https://arxiv.org/pdf/1504.00941.pdf">paper</a>] |
+| 07. <strong>Neural-Machine-Translation-with-Attention</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/07.Neural-Machine-Translation-with-Attention.ipynb">notebook</a> / <a href="http://www.manythings.org/anki/fra-eng.zip">data</a> / <a href="https://arxiv.org/pdf/1409.0473.pdf">paper</a>] |
+| 08. <strong>CTC-for-Speech-Recognition</strong> | [notebook / data / paper] |
+| 09. <strong>CNN-for-Text-Classification</strong> | [<a href="https://github.com/DSKSD/cs-224n-Pytorch/blob/master/09.CNN-for-Text-Classification.ipynb">notebook</a> / <a href="http://cogcomp.org/Data/QA/QC/train_5500.label">data</a> / <a href="http://www.aclweb.org/anthology/D14-1181">paper</a>] |
+| 10. <strong>Tree-LSTM-for-Sentiment-Classifier</strong> | [notebook / data / <a href="http://www.aclweb.org/anthology/P15-1150">paper</a>] |
+| 11. <strong>Deep-Reinforcement-Learning-for-Coreference-Resolution</strong> | [notebook / data / <a href="http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf">paper</a>] |
+| 12. <strong>Dynamic-Memory-Network-for-QA</strong> | [notebook / <a href="http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>] |
 
 
 ## Requirements
