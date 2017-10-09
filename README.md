@@ -26,6 +26,7 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 - gensim 2.2.0
 - sklearn_crfsuite
 - librosa
+-  <a href="https://github.com/SeanNaren/warp-ctc/tree/pytorch_bindings/pytorch_binding">warpctc_pytorch</a>
 
 ## Getting started
 
@@ -37,7 +38,9 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 
  `nltk.download('brown')`
  
- `nltk.download('conll2002)`
+ `nltk.download('conll2002')`
+ 
+ `nltk.download('timit')`
 
 ### docker env
 ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, sklearn, pytorch
@@ -56,6 +59,7 @@ ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, s
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
 * <a href="https://github.com/yunjey/pytorch-tutorial">pytorch-tutorial</a>
 * <a href="https://github.com/Shawn1993/cnn-text-classification-pytorch">cnn-text-classification-pytorch</a>
+* <a href="https://github.com/SeanNaren/warp-ctc">warp-ctc-pytorch-binding</a>
 
 ## Author
 
