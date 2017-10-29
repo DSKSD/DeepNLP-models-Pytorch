@@ -32,20 +32,25 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 
 `git clone https://github.com/DSKSD/cs-224n-Pytorch.git`
 
-### nltk corpus
+### prepare dataset
 
-`nltk.download('gutenburg')`
+````
+cd script
+chmod u+x prepare_dataset.sh
+./prepare_dataset.sh
 
- `nltk.download('brown')`
- 
- `nltk.download('conll2002')`
- 
- `nltk.download('timit')`
+````
 
 ### docker env
 ubuntu 16.04 python 3.5.2 with various of ML/DL packages including tensorflow, sklearn, pytorch
 
 `docker pull dsksd/deepstudy:0.2`
+
+````
+sudo pip3 install docker-compose
+cd script
+sudo docker-compose up -d
+````
 
 ### cloud setting
 

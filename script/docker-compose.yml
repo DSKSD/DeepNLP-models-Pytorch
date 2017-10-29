@@ -1,0 +1,9 @@
+cs224n:
+  image: dsksd/deepstudy:0.2
+  ports:
+    - "8888:8888"
+    - "6006:6006"
+  volumes:
+    - ../:/notebooks/work
+  command: /run.sh
+  tty: true
