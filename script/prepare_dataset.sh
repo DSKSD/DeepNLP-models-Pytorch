@@ -1,6 +1,6 @@
 #!/bin/sh
 
-OUT_DIR="${1:-./dataset}"
+OUT_DIR="${1:-../dataset}"
 
 mkdir -v -p $OUT_DIR
 
