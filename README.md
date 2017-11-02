@@ -2,7 +2,7 @@
 
 Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 
-| Model      | Reference link   |
+| Model      | Links   |
 | ------------- |:-------------:| 
 | 01. <strong>Skip-gram-Naive-Softmax</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/01.Skip-gram-Naive-Softmax.ipynb">notebook</a> / data / <a href="https://arxiv.org/abs/1301.3781">paper</a>] |
 | 02. <strong>Skip-gram-Negative-Sampling</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/02.Skip-gram-Negative-Sampling.ipynb">notebook</a> / data / <a href="http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">paper</a>] |
@@ -14,8 +14,7 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 | 08. <strong>CTC-for-End2End-Speech-Recognition</strong> | [notebook / data / <a href="http://www.cs.toronto.edu/~graves/icml_2006.pdf">paper</a>] |
 | 09. <strong>CNN-for-Text-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/09.CNN-for-Text-Classification.ipynb">notebook</a> / <a href="http://cogcomp.org/Data/QA/QC/train_5500.label">data</a> / <a href="http://www.aclweb.org/anthology/D14-1181">paper</a>] |
 | 10. <strong>Recursive-NN-for-Sentiment-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/10.Recursive-NN-for-Sentiment-Classification.ipynb">notebook</a> / <a href="https://nlp.stanford.edu/sentiment/index.html">data</a> / <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf">paper</a>] |
-| 11. <strong>Deep-Reinforcement-Learning-for-Coreference-Resolution</strong> | [notebook / data / <a href="http://cs.stanford.edu/people/kevclark/resources/clark-manning-emnlp2016-deep.pdf">paper</a>] |
-| 12. <strong>Dynamic-Memory-Network-for-Question-Answering</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/12.Dynamic-Memory-Network-for-Question-Answering.ipynb">notebook</a> / <a href="http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>] |
+| 11. <strong>Dynamic-Memory-Network-for-Question-Answering</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/11.Dynamic-Memory-Network-for-Question-Answering.ipynb">notebook</a> / <a href="http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>] |
 
 
 ## Requirements
@@ -62,6 +61,7 @@ docker-compose up -d
 * <a href="https://github.com/spro/practical-pytorch">practical-pytorch</a>
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
 * <a href="https://github.com/yunjey/pytorch-tutorial">pytorch-tutorial</a>
+* <a href="https://github.com/pytorch/examples/">pytorch-examples</a>
 * <a href="https://github.com/Shawn1993/cnn-text-classification-pytorch">cnn-text-classification-pytorch</a>
 * <a href="https://github.com/SeanNaren/warp-ctc">warp-ctc-pytorch-binding</a>
 
