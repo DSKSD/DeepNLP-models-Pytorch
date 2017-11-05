@@ -9,12 +9,11 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 | 03. <strong>GloVe</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/03.GloVe.ipynb">notebook</a> / data / <a href="https://nlp.stanford.edu/pubs/glove.pdf">paper</a>] |
 | 04. <strong>Window-Classifier-for-NER</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/04.Window-Classifier-for-NER.ipynb">notebook</a> / data / paper] |
 | 05. <strong>Neural-Dependancy-Parser</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/05.Neural-Dependancy-Parser.ipynb">notebook</a> / <a href="https://github.com/rguthrie3/DeepDependencyParsingProblemSet/tree/master/data">data</a> / <a href="http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf">paper</a>] |
-| 06. <strong>RNN-Language-Model</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/06.RNN-Language-Model.ipynb">notebook</a> / data / <a href="https://arxiv.org/pdf/1504.00941.pdf">paper</a>] |
-| 07. <strong>Neural-Machine-Translation-with-Attention</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/07.Neural-Machine-Translation-with-Attention.ipynb">notebook</a> / <a href="http://www.manythings.org/anki/fra-eng.zip">data</a> / <a href="https://arxiv.org/pdf/1409.0473.pdf">paper</a>] |
-| 08. <strong>CTC-for-End2End-Speech-Recognition</strong> | [notebook / data / <a href="http://www.cs.toronto.edu/~graves/icml_2006.pdf">paper</a>] |
-| 09. <strong>CNN-for-Text-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/09.CNN-for-Text-Classification.ipynb">notebook</a> / <a href="http://cogcomp.org/Data/QA/QC/train_5500.label">data</a> / <a href="http://www.aclweb.org/anthology/D14-1181">paper</a>] |
-| 10. <strong>Recursive-NN-for-Sentiment-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/10.Recursive-NN-for-Sentiment-Classification.ipynb">notebook</a> / <a href="https://nlp.stanford.edu/sentiment/index.html">data</a> / <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf">paper</a>] |
-| 11. <strong>Dynamic-Memory-Network-for-Question-Answering</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/11.Dynamic-Memory-Network-for-Question-Answering.ipynb">notebook</a> / <a href="http://www.thespermwhale.com/jaseweston/babi/tasks_1-20_v1-2.tar.gz">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>] |
+| 06. <strong>RNN-Language-Model</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/06.RNN-Language-Model.ipynb">notebook</a> / <a href="https://github.com/tomsercu/lstm/tree/master/data">data</a> / <a href="https://arxiv.org/pdf/1504.00941.pdf">paper</a>] |
+| 07. <strong>Neural-Machine-Translation-with-Attention</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/07.Neural-Machine-Translation-with-Attention.ipynb">notebook</a> / <a href="http://www.manythings.org/anki/">data</a> / <a href="https://arxiv.org/pdf/1409.0473.pdf">paper</a>] |
+| 08. <strong>CNN-for-Text-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/08.CNN-for-Text-Classification.ipynb">notebook</a> / <a href="http://cogcomp.org/Data/QA/QC">data</a> / <a href="http://www.aclweb.org/anthology/D14-1181">paper</a>] |
+| 09. <strong>Recursive-NN-for-Sentiment-Classification</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/09.Recursive-NN-for-Sentiment-Classification.ipynb">notebook</a> / <a href="https://nlp.stanford.edu/sentiment/index.html">data</a> / <a href="https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf">paper</a>] |
+| 10. <strong>Dynamic-Memory-Network-for-Question-Answering</strong> | [<a href="https://nbviewer.jupyter.org/github/DSKSD/cs-224n-Pytorch/blob/master/notebooks/10.Dynamic-Memory-Network-for-Question-Answering.ipynb">notebook</a> / <a href="https://research.fb.com/downloads/babi/">data</a> / <a href="https://arxiv.org/abs/1506.07285">paper</a>] |
 
 
 ## Requirements
@@ -24,8 +23,7 @@ Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ)
 - nltk 3.2.2
 - gensim 2.2.0
 - sklearn_crfsuite
-- librosa
--  <a href="https://github.com/SeanNaren/warp-ctc/tree/pytorch_bindings/pytorch_binding">warpctc_pytorch</a>
+
 
 ## Getting started
 
@@ -63,7 +61,6 @@ docker-compose up -d
 * <a href="https://github.com/yunjey/pytorch-tutorial">pytorch-tutorial</a>
 * <a href="https://github.com/pytorch/examples/">pytorch-examples</a>
 * <a href="https://github.com/Shawn1993/cnn-text-classification-pytorch">cnn-text-classification-pytorch</a>
-* <a href="https://github.com/SeanNaren/warp-ctc">warp-ctc-pytorch-binding</a>
 
 ## Author
 

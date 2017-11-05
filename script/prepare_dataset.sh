@@ -11,7 +11,7 @@ rm "$OUT_DIR/fra-eng.zip"
 rm "$OUT_DIR/_about.txt"
 mv "$OUT_DIR/fra.txt" "$OUT_DIR/eng-fra.txt"
 
-echo "download ptb dataset... (clone from https://github.com/rguthrie3/DeepDependencyParsingProblemSet"
+echo "download ptb dataset... (clone from https://github.com/tomsercu/lstm/tree/master/data"
 mkdir -v -p "$OUT_DIR/ptb"
 wget "https://raw.githubusercontent.com/tomsercu/lstm/master/data/ptb.train.txt" -P "$OUT_DIR/ptb"
 wget "https://raw.githubusercontent.com/tomsercu/lstm/master/data/ptb.valid.txt" -P "$OUT_DIR/ptb"
