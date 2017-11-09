@@ -2,7 +2,7 @@
 
 Pytorch implementations of various Deep NLP models in <a href="http://web.stanford.edu/class/cs224n/">cs-224n(Stanford Univ: NLP with Deep Learning)</a>
 
-- This is not for Pytorch beginners. If this is your first time to use Pytorch, I recommend these <a href="#reference">awesome tutorials</a>.
+- This is not for Pytorch beginners. If this is your first time to use Pytorch, I recommend these [awesome tutorials](#references).
 - If you're interested in DeepNLP, I strongly recommend you to work with this awesome lecture.
 
   * <a href="http://web.stanford.edu/class/cs224n/syllabus.html">cs-224n-slides</a>
@@ -64,7 +64,7 @@ docker-compose up -d
 
 `not yet`
 
-<h3><a href="#reference" style="color:black;text-decoration: none;" class="anchor" id="user-content-reference">References</a></h3>
+## References
 
 * <a href="https://github.com/spro/practical-pytorch">practical-pytorch</a>
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
