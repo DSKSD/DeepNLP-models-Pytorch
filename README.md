@@ -64,7 +64,7 @@ docker-compose up -d
 
 `not yet`
 
-<h3><a href="#reference" aria-hidden="true" class="anchor" id="user-content-reference">References</a></h3>
+<h3><a href="#reference" style="color:black;text-decoration: none;" class="anchor" id="user-content-reference">References</a></h3>
 
 * <a href="https://github.com/spro/practical-pytorch">practical-pytorch</a>
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
