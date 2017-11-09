@@ -1,14 +1,14 @@
 # cs-224n-Pytorch
 
-Pytorch implementations of various Deep NLP models in <a href="http://web.stanford.edu/class/cs224n/">cs-224n(Stanford Univ: Natural Language Processing with Deep Learning)</a>
+Pytorch implementations of various Deep NLP models in <a href="http://web.stanford.edu/class/cs224n/">cs-224n(Stanford Univ: NLP with Deep Learning)</a>
 
 - This is not for Pytorch beginners. If this is your first time to use Pytorch, I recommend these <a href="#reference">awesome tutorials</a>.
 - If you're interested in DeepNLP, I strongly recommend you to work with this awesome lecture.
 
-* <a href="http://web.stanford.edu/class/cs224n/syllabus.html">cs-224n-slides</a>
-* <a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">cs-224n-videos</a>
+  * <a href="http://web.stanford.edu/class/cs224n/syllabus.html">cs-224n-slides</a>
+  * <a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">cs-224n-videos</a>
 
-This material is not perfect but will help your study and research:) Don't hesitate to let me know if you find a problem. PR is always welcome!
+This material is not perfect but will help your study and research:) Please feel free to pull requests!!
 
 <hr>
 
@@ -64,7 +64,7 @@ docker-compose up -d
 
 `not yet`
 
-<h3><span class="anchor" id="user-content-reference">References</span></h3>
+<h3><a href="#reference" aria-hidden="true" class="anchor" id="user-content-reference">References</a></h3>
 
 * <a href="https://github.com/spro/practical-pytorch">practical-pytorch</a>
 * <a href="https://github.com/rguthrie3/DeepLearningForNLPInPytorch">DeepLearningForNLPInPytorch</a>
