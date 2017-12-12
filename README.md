@@ -31,7 +31,7 @@ This material is not perfect but will help your study and research:) Please feel
 ## Requirements
 
 - Python 3.5
-- Pytorch 0.2
+- Pytorch 0.2+
 - nltk 3.2.2
 - gensim 2.2.0
 - sklearn_crfsuite
