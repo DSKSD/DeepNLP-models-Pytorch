@@ -18,7 +18,7 @@ wget "https://raw.githubusercontent.com/tomsercu/lstm/master/data/ptb.valid.txt"
 wget "https://raw.githubusercontent.com/tomsercu/lstm/master/data/ptb.test.txt" -P "$OUT_DIR/ptb"
 
 echo "download TREC question dataset..."
-curl -o "$OUT_DIR/train_5500.label.txt" "http://cogcomp.org/Data/QA/QC/train_5500.label"
+curl -o "$OUT_DIR/train_5500.label.txt" "https://cogcomp.seas.upenn.edu/Data/QA/QC/train_5500.label"
 
 echo "download Stanford sentment treebank..."
 curl -o "$OUT_DIR/trainDevTestTrees_PTB.zip" "https://nlp.stanford.edu/sentiment/trainDevTestTrees_PTB.zip"
